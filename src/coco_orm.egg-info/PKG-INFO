@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: coco-orm
-Version: 1.0.0
-Summary: a simple ORM built to simplify working with datasets in COCO format.
-Home-page: https://github.com/Tarabon4ik/coco_orm
+Version: 1.0.1
+Summary: An ORM built to simplify working with datasets in COCO format.
 Author: Tarabon4ik
-Project-URL: repository, https://github.com/Tarabon4ik/coco_orm
+Project-URL: Homepage, https://github.com/Tarabon4ik/coco_orm
+Project-URL: Issues, https://github.com/Tarabon4ik/coco_orm/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -14,12 +14,7 @@ License-File: LICENSE
 
 # coco_orm
 
-coco_orm is a simple ORM built to simplify working with datasets in COCO format.
-
-## Installation
-
-`pip install coco_orm`
-
+coco_orm is an ORM built to simplify working with datasets in COCO format.
 
 ## Examples
 
