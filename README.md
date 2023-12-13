@@ -1,5 +1,4 @@
-#coco_orm
-======
+# coco_orm
 
 coco_orm is a simple ORM built to simplify working with datasets in COCO format.
 
@@ -8,12 +7,9 @@ coco_orm is a simple ORM built to simplify working with datasets in COCO format.
 `pip install coco_orm`
 
 
-##Examples
---------
+## Examples
 
-#1: Create a new annotations file and fill it with data in COCO format:
-
-.. code-block:: python
+### Create a new annotations file and fill it with data in COCO format:
 
     from coco_orm import CocoDataset
     from coco_orm.models import Image, Category, Annotation
@@ -36,9 +32,8 @@ coco_orm is a simple ORM built to simplify working with datasets in COCO format.
     # save to the .json file
     coco_dataset.save()
 
-#2: Apply filters to the COCO dataset collections
 
-.. code-block:: python
+### Apply filters to the COCO dataset collections
 
     from coco_orm import CocoDataset
     from coco_orm.filters import ImageFilters
@@ -57,4 +52,6 @@ coco_orm is a simple ORM built to simplify working with datasets in COCO format.
 Created by a team of Computer Vision enjoyers of Igor Sikorsky Kyiv Polytechnic Institute.
 
 ## Support Ukraine - Stop the War
+Since 20 February 2014 Ukraine has been facing Russian military aggression that has left over 14 000 people killed and over 30 000 injured. Your support is crucial as it helps Ukrainian people to stand against Russian aggression.
+We are fighting for the sake of future without tyranny.
 [<img src="https://www.nhc.nl/assets/uploads/2022/02/shutterstock_2125795721-1-scaled-e1645609704346.jpg">](https://war.ukraine.ua/support-ukraine/)
