@@ -2,11 +2,6 @@
 
 coco_orm is a simple ORM built to simplify working with datasets in COCO format.
 
-## Installation
-
-`pip install coco_orm`
-
-
 ## Examples
 
 ### Create a new annotations file and fill it with data in COCO format:
