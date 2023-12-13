@@ -1,6 +1,6 @@
 # coco_orm
 
-coco_orm is a simple ORM built to simplify working with datasets in COCO format.
+coco_orm is an ORM built to simplify working with datasets in COCO format.
 
 ## Examples
 
