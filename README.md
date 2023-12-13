@@ -53,5 +53,5 @@ Created by a team of Computer Vision enjoyers of Igor Sikorsky Kyiv Polytechnic 
 ## Support Ukraine - Stop the War
 Since 20 February 2014 Ukraine has been facing Russian military aggression that has left over 14 000 people killed and over 30 000 injured. Your support is crucial as it helps Ukrainian people to stand against Russian aggression.
 
-We are fighting for the future without tyranny.
+[We are fighting for the future without tyranny.](https://war.ukraine.ua/support-ukraine/)
 [<img src="https://www.nhc.nl/assets/uploads/2022/02/shutterstock_2125795721-1-scaled-e1645609704346.jpg">](https://war.ukraine.ua/support-ukraine/)
